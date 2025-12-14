@@ -1,0 +1,2 @@
+Pocari|Drinks|25
+Clover|Snacks|50
